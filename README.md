@@ -1,2 +1,2 @@
-# GEE
-Gee for the third paper of my PhD 
+# Google Earth Engine
+GEE codes for the third paper of my PhD 
